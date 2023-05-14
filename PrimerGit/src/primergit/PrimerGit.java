@@ -1,20 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package primergit;
 
-/**
- *
- * @author Uvi
- */
 public class PrimerGit {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("He cambiado el mensaje para probar esta nueva "
+                + "versión del proyecto en desarrollo");
     }
-    
+
 }
